@@ -1,3 +1,5 @@
-import youtube.commentParser as cp
+import youtube.videoParser as cm
 
-cp.getCommentsFromVideo('https://www.youtube.com/watch?v=xSVLX5-cVCI', 0)
+URL = "https://www.youtube.com/watch?v=A2-oKI-1-sI" #Ваш урл
+cm.getAllChannelVideo(URL, 0)
+
