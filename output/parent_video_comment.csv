@@ -1,40 +1,123 @@
 ,id,comment,author,likecount,publishedAt
-0,UgwG4n_g_xUJ_UjqmKN4AaABAg,"Hello guys, 
-I'm planning to do a Python tutorial series in parallel to AWS tutorials. Is this something you will be interested in? Please let me know in comments.",Srce Cde,1,2019-03-08T04:38:18.000Z
-1,UgwlSnKKSll1nsTCxp14AaABAg,"You made it simple and clean, thank you.",appeshreddy penumullu,0,2019-05-19T06:20:52.000Z
-2,UgzOqJ-5sJtDtgsY9594AaABAg,Thank you very much[Srce Cde] Chirag :) I would really appreciate your efforts. It is more helpful and understandable.,Nagarjuna Mahesh,0,2019-05-14T16:34:57.000Z
-3,UgzAywXZay1U5cHETGN4AaABAg,Great Job. Very clear explanation and hands on example.,J J,0,2019-05-02T20:07:37.000Z
-4,UgwrKLWJj6T6lPHRArJ4AaABAg,Great video for a AWS Lambda beginner :D,mahmoud mahdi,0,2019-04-18T13:26:34.000Z
-5,UgxRqzISLwpj_n7vnih4AaABAg,"Hi,I have added s3 bucket to lambda function.It is showing error as follows:
-Configurations overlap. Configurations on the same bucket cannot share a common event type. (Service: Amazon S3; Status Code: 400; Error Code: InvalidArgument 
+0,UgwT9AYb5Hq7Q1fwcIF4AaABAg,"Здарова ёпт вашу мать, я тут разродился видосом. Приятно просмотра что ли =)",Бифо',59,2021-05-01T17:58:48Z
+1,Ugwou3_t-3nYYjlFuqZ4AaABAg,Вот такие видос про игру топ. Пожилой Бич пакет если ты играл Блад Борн то зделай видосик про його.,Pasha Gromov,0,2021-06-27T06:22:38Z
+2,UgzT7yZjkY1dOYHZJat4AaABAg,Анимация по четвертому резику будет?,Mr Grom,1,2021-06-23T17:49:24Z
+3,Ugyxr1xxOhB8xUeX6cl4AaABAg,я недавно пересматривал озвучки дабикрабика на theood1sout и там была реклама этого канала где сказали что (на тот момент) тут только одно видео и мне стало интересно жив ли канал по сей сень,I am kiraninariko,0,2021-06-16T21:20:35Z
+4,UgyHOUYQHWknKUzv3fl4AaABAg,Ну почему тебя так мало смотрят((( ты же реально круто делаешь. Может поддаться трендам и на ТикТок  что то снимать. Может там дело пойдет.,Shaiser,0,2021-06-14T23:01:21Z
+5,Ugw1uG5JIvI1FJNVFR94AaABAg,"Lol красное&белое кибет, кто то в татарстане чилит)",BaRaSh Baraska,0,2021-05-24T18:09:11Z
+6,UgxD3plWLGDdJzxWlN94AaABAg,"Бифо братанчик, не пропадай пожалуйста... ты реально талантливый чорт, ну или чёрт( как угодно) ты вдохновляешь нас... ну хотя... мнэ.
+В общем ты крут, я ради тебя даже девственности не терял.
+Стоп... кхм, в общем бро давай удачи тебе!!!",RedSFurs,1,2021-05-14T20:41:07Z
+7,UgxJNltC6L1QkM04B2t4AaABAg,Зашёл по настольгировать спустя год после отписки увидел что оно живое подписался вновь,No Name,0,2021-05-06T08:41:55Z
+8,UgzA6dXFLuIdrjfrbN14AaABAg,Ух жесть как я довно это ждал сейчас только рекомендации  пришло,Dazel Ful,0,2021-05-06T00:43:01Z
+9,UgyduohUyrLpwiRIb9B4AaABAg,Ахуе... Я думал ты еще в 2016 умер,123 [H2O],0,2021-05-05T20:22:55Z
+10,UgxizMFJwH7bNxkqhsZ4AaABAg,"8:03
+Дед рассказывает как он в детстве добирался до школы",X RAY,1,2021-05-05T09:03:39Z
+11,UgxcMjjce9_UrUSqytl4AaABAg,Вот бы так-же напракон снимал но нееет давай будем стримить якудзу...,SENPAI!!,1,2021-05-05T08:32:48Z
+12,UgwnTbQ0_8L4qitPEQV4AaABAg,Бифо воскресен!,Monkovich Production,2,2021-05-04T12:21:19Z
+13,UgzjgAXd6ozbXa7Elux4AaABAg,"Ебать, оно живое!
+Как я этому рад!",Anatoly Mamonov,0,2021-05-04T09:27:17Z
+14,Ugz9RRvZmiCVZ_KbDNx4AaABAg,"Песня E VE!!! Outsider топ
+Кстати, ты живой оказывается",NeKO AnoXXiN,1,2021-05-04T08:38:09Z
+15,UgwC8beXPD-_mUQZrHB4AaABAg,"Геймплей, ну так, скучноват прям, но я впервые в игре ждал кат сцены и они были реально интересны, ну в целом мне понравилось",ханыга забулдыгов,0,2021-05-04T06:35:49Z
+16,UgzFboULO8FXnLVUPTV4AaABAg,Мы ждали и ждали мы дождались)))),Антон Соколов,0,2021-05-03T18:55:47Z
+17,UgyGM27s-yzhklspCml4AaABAg,"КАК НЕ ЖИВОЙ, НО С**А ЖИВОЙ",AmonimousRUS,1,2021-05-03T08:02:26Z
+18,UgxH73bTcEYtPpQSROx4AaABAg,Этот маг говна опять выпускает ахуенные видос и уходит в свою сычевальню фармить прыщи. Бифо воскрес,Зеленый Слоник,0,2021-05-03T06:29:08Z
+19,UgyOluG5M3rl5I6a0694AaABAg,"12:08 - 12:26 , нужна часовая версия",Risus Urna,0,2021-05-03T03:17:07Z
+20,UgwqBa7swGqOii-C1gl4AaABAg,"Ты что, живой?",Римуру Темпест,0,2021-05-03T00:52:29Z
+21,Ugw6FeNHw4_gdzEiliF4AaABAg,"Я понял только то что, ты подсел на музыку исполнителя Ev e",Furry Fluffy Tail,0,2021-05-02T21:22:19Z
+22,UgxNIstIX26yUrlCF4N4AaABAg,It's alive! It's alive! IT'S ALIVE!!,Алексей Лянгузов,0,2021-05-02T18:08:27Z
+23,Ugx9fRhYvx4lAUAPwqF4AaABAg,"Раньше он приходил, когда мы в нём нуждались. Теперь он приходит, когда хочет рассказать о игре, которую прошёл.",schoLari,1,2021-05-02T16:48:16Z
+24,UgzTqsFwV4pNwwwT1oJ4AaABAg,Я думал тебя черная жижа затянула и от тебя видосов больше не стоит ждать,Алексей Пупкин,0,2021-05-02T13:26:27Z
+25,UgzX1536MmgcMGVOZt14AaABAg,УУУ НОВОЕ ВИДИО ПОНИМАЮ,Максим Осянин,0,2021-05-02T12:32:51Z
+26,UgycHY3OWSJkZuGAoIZ4AaABAg,Ого.... Хто ты?,Кирилл пшенников,0,2021-05-02T09:06:38Z
+27,UgzBH-lBRzXVIhY8kPt4AaABAg,Рад тебя слышать чувак!!!Видос как всегда на высоте!,Николай Черенков,0,2021-05-02T08:09:27Z
+28,Ugzp0EfTZ8MkDXabqHF4AaABAg,"блять, а христос то реально воскрес",agressor,0,2021-05-02T07:44:38Z
+29,UgyRsSaRed-SgZ9ARBR4AaABAg,Урааааааааахххххххх.,Диас Хасенов,0,2021-05-02T06:53:30Z
+30,Ugz-Sk0mlijk6_0XQ7p4AaABAg,Ты как из могилы вылез?,Григорьев Максим,0,2021-05-02T06:34:05Z
+31,UgzP4EXnDPFOyZNyLrl4AaABAg,Ого так он ещё не умер?!,я,0,2021-05-02T06:26:07Z
+32,UgyA0IvfpKyTWd3xSgl4AaABAg,"Бифо'  воскрес!
+Воистину воскрес!!!",NaoMi,3,2021-05-02T05:43:53Z
+33,UgwJWk80_oFMY6jVwhZ4AaABAg,"Нет, не давай мне надежду 
+Ты ведь выпустить видео и опять уйдешь...",Fureman Alex,1,2021-05-02T05:30:31Z
+34,UgzGuxoJ5ZFiwN8Q_nV4AaABAg,Ты живой? Ахуеть,Пельмешка,0,2021-05-02T04:48:57Z
+35,UgyUrIBJYjXuZUrgC3N4AaABAg,"Ееее. Мне кажется что этот обзор лучше половины роликов мармока, а это весьма неплохо",Alek Lavr,1,2021-05-02T04:18:23Z
+36,Ugy3LOij8lzG5UhpO2F4AaABAg,"Отписчики, подписывайтесь",Saint_F0x,0,2021-05-02T04:00:54Z
+37,UgzehULKJDS__FEufkV4AaABAg,"Не ну классный мужик, лайк",Mr Toporik,2,2021-05-02T03:27:36Z
+38,UgzbddS2PHn7M0LGAbV4AaABAg,О мой бог папочка ты жив,Seizishka Tyan,1,2021-05-02T02:54:42Z
+39,UgxyEIMLtokWAdn8AAN4AaABAg,"Death Stranding - это проект, к которому мы были не готовы.",Neon Neiny,1,2021-05-01T23:36:14Z
+40,UgxUb7hFpyndwSdf0gB4AaABAg,Я думал ты забросил канал бифыч,Данила Савенко,1,2021-05-01T22:38:01Z
+41,UgwhVc73QuhBdKPC57d4AaABAg,"Оно живое, но словно неживое",Хайз,1,2021-05-01T22:21:16Z
+42,Ugw785bHuKe8F3-_Efl4AaABAg,Бифо жив!,xrenak four,0,2021-05-01T22:11:03Z
+43,UgxGTauscx2K12qRSdZ4AaABAg,+ я тоже старый ( мне 14),ILOBRY,0,2021-05-01T22:02:22Z
+44,UgyuR32S_CzInVRyw_d4AaABAg,Спс за видос только кто вы молодой человек,ILOBRY,1,2021-05-01T21:48:20Z
+45,UgztXSG3bitI6h82RG94AaABAg,"А, ну уважительная причина отсутствия",Zyzik Matroskin,0,2021-05-01T21:39:43Z
+46,UgzIig47GfadnWFe-9F4AaABAg,Я полагаю 6 последних месяцев ты этим и занимался?,Йогурт Натуральный,0,2021-05-01T21:19:38Z
+47,UgxQVwaCo--75FN4ZQd4AaABAg,Почему  про музыку ничего несказанно,Рандом чел,0,2021-05-01T21:18:46Z
+48,UgxihlCUufjtRPlyrnt4AaABAg,как много треков Eve в видосе) ну это однозначный лайк,Rgomba,1,2021-05-01T21:17:27Z
+49,UgxNIP02e31h0JFQ3mV4AaABAg,что за трек в начале?),Seventh,1,2021-05-01T20:42:15Z
+50,UgwQHNon-9O4O-M25oB4AaABAg,За опенинг из дорохедора в начале лайк,SwaGer 07,3,2021-05-01T20:39:38Z
+51,UgzQrfg7bFtCiuhN_2p4AaABAg,Бифо проходил Death Stranding 6 месяцев~,Robidashka,0,2021-05-01T20:34:54Z
+52,UgxYMFmlsJTRyfGSvul4AaABAg,ОНО ЖИВОЕ!,Рашэн Nerd,0,2021-05-01T20:33:37Z
+53,Ugx-VRE9mUhbp90wCxF4AaABAg,"Ебать, как же я рад был услышать и Бифо, и Морковку! Ваще балдею с ваших голосов.",Troll Ololoev,15,2021-05-01T20:24:24Z
+54,UgyuCC1Rda_Q_nXYws94AaABAg,Уряяя новый видос бифо,Элимасс,1,2021-05-01T20:06:59Z
+55,Ugw6mbRQT3iwtCAz17d4AaABAg,Оно живое!!!,Soldier Duck,0,2021-05-01T20:03:48Z
+56,UgwTa47RejeJ2CQBasV4AaABAg,Еба да ты жыв!!!,Dio,0,2021-05-01T20:01:44Z
+57,Ugwl_eLfnOLmUp7hieF4AaABAg,"Нихуя соби, Христос Воскресе!",Арсен Бааалдёжный,0,2021-05-01T19:41:12Z
+58,Ugz3SfO-9N3k7UyRb8d4AaABAg,С клавой я прям прочувствовал всю эту боль ✊😔,РуТЕЗа,0,2021-05-01T19:40:33Z
+59,UgykbyG8JtmfyL-2eAZ4AaABAg,Охааааё,Latias Day,0,2021-05-01T19:18:49Z
+60,Ugyzd1NzgPXgm8EFESd4AaABAg,Спасибо что живой,Король неудач(KOF),1,2021-05-01T19:14:25Z
+61,UgwyGFHbw1DiMVvkJg54AaABAg,"О, ты живой. 
+                        А я художник.",Глеб Шарипов,1,2021-05-01T18:59:32Z
+62,UgwTIKhCPe3rwW-O90l4AaABAg,"Ролик топ как всегда, ставлю жирный лукас под видос",Сколуха,3,2021-05-01T18:53:51Z
+63,UgzWF_jh44KXVVvmoIB4AaABAg,Я так понимаю Бифо перешёл на Зулин-время?,Red Cap,1,2021-05-01T18:49:59Z
+64,Ugxe7AfPBdIX89x2bFN4AaABAg,"Ахуеть и полу года не прошло. *Так стоп*
 
 
-Actually I am using aws amplify to build my serverless framework and have added hosting resource to which s3 bucket is attached and the same bucket I am using for lambda function.can you please suggest me the feasible solution for it.",kavya panchumarthy,0,2019-04-09T07:59:44.000Z
-6,UgzJKhi7CwMr7FcSW-V4AaABAg,Thanks bro! really helpful stuff .,JAGDISH RAM,0,2019-03-17T15:10:27.000Z
-7,UgzL7RSxug33Q946gB14AaABAg,"Sir, How to to triggers notification mails when file getting uploaded or deleted in s3 ...using lambda ??",Shubham Bhore,0,2019-01-25T12:27:24.000Z
-8,Ugx_HLmze5BjUqDoPvJ4AaABAg,Hi srce cde. this video is really useful. I am beginner of cloud and looking for more videos. Please upload. Thanks.,Faizur Devops Architect,1,2019-01-25T12:08:09.000Z
-9,UgxhFCVIvRgADfNsv1R4AaABAg,Nice video,Faizur Devops Architect,0,2019-01-24T05:48:24.000Z
-10,UgyTVk23r4skfF0bKtF4AaABAg,Can we forward the lambda logs to s3 bucket continuously ?,Ramagiri Ramesh,0,2018-12-27T11:06:31.000Z
-11,UgxlGzZoahVqkhWnyJh4AaABAg,TY,Tiago Almeida,0,2018-11-20T11:42:05.000Z
-12,UgxeGDWyCeNjHgg19WN4AaABAg,Awsome <3,Rakesh ks,1,2018-11-10T14:26:39.000Z
-13,Ugxqd1YSqTiSHH6a8y14AaABAg,Please make a video on data transfer from S3 to RDB using lambda(python),sunny gupta,0,2018-10-22T10:01:10.000Z
-14,Ugwg7KWb0yObZaQMW1l4AaABAg,hi! id like a tutorial uploading images to s3 and then call that image in my pyhton code in lambda to process it,alcina fernandes,0,2018-10-09T01:27:46.000Z
-15,UgwtP3JNM_0KJvNNsEF4AaABAg,who has created the log groups,Anson Alexander,0,2018-09-24T12:33:49.000Z
-16,Ugy9yD1IxWeLEmMItw54AaABAg,"Thanks Buddy, Really Hepful",Shyam Kishor,0,2018-07-26T21:55:29.000Z
-17,Ugx05mwBWEnBvkkbi5N4AaABAg,nice video,sateesh ganni,0,2018-07-26T11:23:03.000Z
-18,Ugz9-K0AVIxB_Vn14EB4AaABAg,Thanks for saving time.,Archit Maheshwari,0,2018-07-03T10:00:08.000Z
-19,UgxykNWg0fCHHkLONqh4AaABAg,I am being triggered..lol..Nice video and thanks man.,Namah Shrestha,0,2018-06-18T11:44:02.000Z
-20,UgxDeiDNzXSIjFKCW814AaABAg,Thank you!,Lahav Opher Lipson,0,2018-06-16T00:54:33.000Z
-21,UgzyxhJbyvH8HQ_gUcF4AaABAg,Really useful. thanks  buddy,Ja bi,0,2018-06-08T05:43:19.000Z
-22,Ugw7mHAIQEVEO-9Wcn54AaABAg,"HI, it really helps me  a lot! Could I ask a question? If I haven't create any role, which one should I choose? Create new role from templates or create a custom role? thank you.",Yenyu Chen,0,2018-05-20T03:34:46.000Z
-23,Ugw8NKX-5CsFKfYLiP54AaABAg,Thank you.. Can I get CloudFormation (SAM) template for this setup? Mail ID: naveenindevops@gmail.com,Naveen kumar,1,2018-05-14T10:52:05.000Z
-24,UgyW565QCY6_WFiKUjd4AaABAg,Thanks . Pls create one on the add athena partition using lambada on s3 bucket event.,Nathrao Khodve,0,2018-05-06T13:47:50.000Z
-25,UgywsUbOFj38ky9KplZ4AaABAg,"Thank you!!
-The video was really helpful",Sonia Masand,1,2018-04-14T23:27:31.000Z
-26,Ugw3IKDk5b9WIaJVRB94AaABAg,Thanks,Avinav,1,2018-04-12T12:12:47.000Z
-27,Ugxi8y-iMqj5FsScbql4AaABAg,Thanks Q,Arun Kumar,0,2018-04-03T12:48:45.000Z
-28,Ugz0gffYqIuWcY3jurN4AaABAg,Can we set trigger to show what file is uploaded in s3,Abdul Salam,0,2018-03-27T08:12:35.000Z
-29,UgxgvJW13TxCxnnKXM94AaABAg,"Very interesting tutorial, but I have a doubt, is it possible read S3 files from Amazon Lambda? For example, can I serve HTML files stored in S3 with lambda functions? Thanks a lot.",Max Almonte,0,2018-03-26T19:14:15.000Z
-30,UgwqC-yx4Zi5n1eagQp4AaABAg,Thanks,Bharat Patidar,0,2018-03-07T07:45:57.000Z
-31,Ugxr_XDAKm07yG7ioyN4AaABAg,Thank you!,Miguel Wisintainer,1,2018-03-01T00:23:36.000Z
-32,Ugw6WpUhT5_w6Y2ns8Z4AaABAg,nice,dasari gowtham,1,2018-01-20T07:53:04.000Z
+
+
+
+-Бифо т🅿️🅰️❌ни меня-",inke TROLL,2,2021-05-01T18:45:52Z
+65,UgzMK6O1M5vjIBa5WYR4AaABAg,Он еще помнит этот канал?,PeMi,2,2021-05-01T18:43:34Z
+66,UgzgdKh_3BZ8u52_LF54AaABAg,Каждое новое видео как гром средь ясного неба.,Den6668,19,2021-05-01T18:40:31Z
+67,Ugx7Hyn_dkJSIkRpCc94AaABAg,"Бля, опять дорохедоро пересматривать. Ну, что ты наделал",ден4к донской,0,2021-05-01T18:26:52Z
+68,UgwmHIXPAIO127Xc_q54AaABAg,Здарова Бифо),Макс,2,2021-05-01T18:24:46Z
+69,Ugya0AktX3LkcykyjOB4AaABAg,Ты кто?,Tumypka,1,2021-05-01T18:23:48Z
+70,UgwlOOBUOyFGMdTiL8B4AaABAg,Ты кто?,Manis,1,2021-05-01T18:22:15Z
+71,Ugy-JI-3bStzSKwn6Dp4AaABAg,"Ебть, оно живое",Mr.Hurmanio,0,2021-05-01T18:19:20Z
+72,UgyQLp3FakDrJJIGGQt4AaABAg,"Лучшее в игре, это тортик",Полина Данилова,0,2021-05-01T18:17:18Z
+73,UgyGGaNKWmyOHT5C2X94AaABAg,6 месяцев.... Ты Ах###л,Mr. Frayke,0,2021-05-01T18:16:30Z
+74,UgxHlbMO8uBKJrsoeGx4AaABAg,"Непишите, я живой или, он вернулся, не надо пожалуйста.",какой то чел или анимешник,14,2021-05-01T18:15:20Z
+75,UgwR6alFzhoLWWOVg9x4AaABAg,ОНО ЖИВО!!!!!!!,Jon karne,1,2021-05-01T18:14:41Z
+76,UgxtURjltEtosfJgood4AaABAg,Я надеюсь что я щас не проснулсь и не услышу ержан тебе на работу пора,стрелок меченый,0,2021-05-01T18:13:15Z
+77,UgzhfkP_K4YkgWYDTCF4AaABAg,"Хрена себе, ты живой !",D G,6,2021-05-01T18:10:51Z
+78,UgzFnqxkFQesLaqxmdZ4AaABAg,И шести месяцев не прошло...,MarrJotTR,0,2021-05-01T18:08:23Z
+79,Ugx-2Yl5xE8DA6J-_vR4AaABAg,Ладно,Kimalyn🐡,0,2021-05-01T18:06:05Z
+80,Ugwzc4WQ0qqL1BRXyFx4AaABAg,9:24 Юлик и Кузьма такие хорошие,Ал Скорик,8,2021-05-01T18:05:44Z
+81,Ugy-S9Nd3sz6ZbP_NrB4AaABAg,ЧЕЕЕЕЛ ПИВЕТ,Полина Данилова,0,2021-05-01T18:05:27Z
+82,Ugxaz2DSXAEB7frPkRB4AaABAg,Думаю скоро будет конец света,Санан,1,2021-05-01T18:03:22Z
+83,UgzlEiPZTeDgJuxrx8p4AaABAg,"Спасибо, спасибо, спасибо, спасибо, спасибо бл....",mika mika,2,2021-05-01T18:02:02Z
+84,Ugx-75p9DKgTyTTqmb94AaABAg,"Ебать, ты жив",Markiz 31,0,2021-05-01T18:01:39Z
+85,UgyWzLU1ZJCkPwtN2-J4AaABAg,Увидимся через 6 месяцев),Risus Urna,4,2021-05-01T17:59:14Z
+86,UgzbWIH4bfC4Us39hl94AaABAg,Зомби!,Мини Хлеб,0,2021-05-01T17:58:39Z
+87,Ugz-bF9-_gPOE7lrc1N4AaABAg,Ох вернулся,Витольд ыыыыы,1,2021-05-01T17:57:00Z
+88,Ugyu0yrMpTnt8cWT8b54AaABAg,"Ура, ты живой! :""D",Lil Inky Sans,5,2021-05-01T17:56:13Z
+89,Ugx3Uth-p0ZkKecAOoN4AaABAg,я думал ты умер.,aza909aza Тавокин,0,2021-05-01T17:55:35Z
+90,Ugwlu0kEqp6-2DdTZRZ4AaABAg,Ну привет!,IgR'ok,0,2021-05-01T17:52:31Z
+91,UgztGQcZ-GjgDNAhFA54AaABAg,Заходите в мои плей листы,Vaniha SB,2,2021-05-01T17:51:15Z
+92,UgwrHUJp_awzKbC7BNB4AaABAg,о лайк за Eve,Kog,1,2021-05-01T17:51:12Z
+93,UgxyYrANSXVc0OYpoYp4AaABAg,"Опа опа оппа оппа
+А вот и новое пришествие нашего красавчик Бифо",Белый Змей,0,2021-05-01T17:50:13Z
+94,UgySFsVfd7ymx23OEB94AaABAg,Отец в семью вернулся ура,Good Kevin,0,2021-05-01T17:48:59Z
+95,UgzXbJY5bF2Y8S_nwTx4AaABAg,Наконец то годный контент,Gamelife,0,2021-05-01T17:48:45Z
+96,Ugx7ldocjMU1qpbsIrB4AaABAg,ОНО ОЖИЛО !!!!,Дмитрий果実,0,2021-05-01T17:46:45Z
+97,UgycImCvYRSahqw6eTJ4AaABAg,Он вернулся.,Devochka V Sinem,1,2021-05-01T17:46:33Z
+98,Ugw6BMU6hFkCDaGvu294AaABAg,ОНО ЖИВО!!! ОНО ЕСТЬ!!!! ЭТО МАГИЯ ПАСХИ!!!! ВСЕМ ЖРАТЬ КУЛИЧИ !!!!,Kane Wolfgang,43,2021-05-01T17:45:45Z
+99,Ugyg6NlY0oOVDN9f8Ed4AaABAg,Название многое обьясняет,Mahito,0,2021-05-01T17:45:18Z
+100,UgyG__gWRvThB7_iV9V4AaABAg,Неужели ты все ещё жив 🗿,L k,0,2021-05-01T17:45:01Z
+101,Ugy_1QJZh6zytO2WyKZ4AaABAg,"Ого, дед Максим то жив оказывается! С возвращением!",DamonaLikai ИриТ,2,2021-05-01T17:44:46Z
+102,UgyNVTjrnYi48s0en794AaABAg,"Живой,да ладно",Alan360,0,2021-05-01T17:44:30Z
+103,UgwfiKPs7G7arAjaE2J4AaABAg,Свершилось! Я уже спился и десять раз прошёл эту игрушку пока ждал.,Салаудин Конфор,1,2021-05-01T17:44:26Z
+104,UgxlgzDw0j7DEAk0oTd4AaABAg,"Оно ЖИВОЕ , ЖИВОЕ!",TZ_,7,2021-05-01T17:44:17Z
+105,Ugw3vlXxtj1LUo1ht0B4AaABAg,"Нухуа, оно живёт!",LeoFunn,1,2021-05-01T17:44:07Z
+106,Ugz6267hpLsGnHhTU3V4AaABAg,Оно живое!!!,ani uch,0,2021-05-01T17:43:52Z
