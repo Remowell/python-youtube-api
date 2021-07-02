@@ -31,7 +31,7 @@ def getVideoFromChannel(channel_id):
             break
     return video_links
 
-    with open('list_to_csv.csv', 'w', newline='') as csv_file:
+    with open(SAVE_PATH+"search_channel_id.csv", 'w', newline='') as csv_file:
         csv_writer = csv.writer(csv_file)
         for item in video_links:
             csv_writer.writerow([item])
